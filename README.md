@@ -1,4 +1,4 @@
-# REPOSITORY FOR THE CHAINLINK LABS MODULE IN ALCHEMY'S ROAD TO WEB3 DEVELOPER PROGRAM
+# ALCHEMY'S ROAD TO WEB3 DEVELOPER PROGRAM WEEK 5
 
 ### Project Description
 
@@ -20,3 +20,21 @@ The entire project is designed for ease of use by those new to Web3 and can be r
 
 ### How to use
 
+```bash
+
+git clone https://github.com/AnastasiaMenshikova/chainlink-alchemy-week5
+
+cd chainlink-alchemy-week5
+
+yarn install
+
+```
+To deploy and verify smart contract on Rinkeby testnet run following commands:
+
+```bash
+
+yarn deploy
+
+yarn verify
+
+```
